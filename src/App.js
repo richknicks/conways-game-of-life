@@ -50,7 +50,7 @@ const App = () => {
             fontSize: "1.5rem",
             paddingRight: 10,
           }}
-          to="/game"
+          to="/"
         >
           Game
         </Link>
@@ -61,7 +61,7 @@ const App = () => {
 
         <Route path="/rules" component={Rules} />
 
-        <Route path="/game" component={Grid} />
+        <Route path="/" component={Grid} />
       </Switch>
     </MainDiv>
   );
