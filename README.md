@@ -29,3 +29,9 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 The first generation is created by applying the above rules, and the rules are applied repeatedly to create further generations.
 
 Link to Wikipedia site <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
+
+Build Status: build working
+
+Tech Stack: React, Styled Components
+
+
